@@ -14,7 +14,5 @@ public class IncomeTaxCalc {
             tax=(int)(income*0.3);
         }
         System.out.println("Your Tax is Rs."+tax);
-
-
     }
 }
