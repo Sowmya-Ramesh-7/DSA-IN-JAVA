@@ -24,6 +24,9 @@ Conditional-Statements
     
 Loops
     1. Reverse of a number
+    2. Input number till user Enter the multiple of 10
+    3. Display output of num that is not multiple of 10
+    4. Check if num is prime or not using for Loop
 
 Patterns[Nested-for-loops]
     1.
@@ -31,5 +34,5 @@ Patterns[Nested-for-loops]
 Data-Structures
 
     Arrays
-        1.Perform operations in Array-Create, Update, Input, Output
+        1.Perform operations on Array-Create, Update, Input, Output
 
