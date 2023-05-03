@@ -27,3 +27,9 @@ Loops
 
 Patterns[Nested-for-loops]
     1.
+
+Data-Structures
+
+    Arrays
+        1.Perform operations in Array-Create, Update, Input, Output
+
