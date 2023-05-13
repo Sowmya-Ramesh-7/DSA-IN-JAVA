@@ -21,7 +21,7 @@ public class SumofSubarrays {
             }
             System.out.println();
         }
-        System.out.println("max and min="+max+" "+min);
+        System.out.println("max and min = "+max+" "+min);
     }
 
     public static void main(String args[]){
