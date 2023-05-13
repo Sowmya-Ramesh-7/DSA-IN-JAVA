@@ -5,6 +5,18 @@ format
 Folder(topics)
     program file list
 
+Algorithms
+    Searching Techniques
+        1. Linear Search [TC = O(N)]
+    *   2. Binary Search [TC =O(LOG N)]
+
+    Basic Sorting Techniques
+        1. Bubble Sort [TC=O(N2)]
+        2. Selection Sort [TC=O(N2)]
+        3. Insertion Sort [TC=O(N2)]
+
+
+
 Basic-java-programs
     1. Area of circle
     2. Area of Square
@@ -34,5 +46,11 @@ Patterns[Nested-for-loops]
 Data-Structures
 
     Arrays
-        1.Perform operations on Array-Create, Update, Input, Output
+        1. Perform operations on Array-Create, Update, Input, Output
+        2. Find the sum of all the subarrays in the array
+        3. Maximum Subarray Sum
+            a. Brute force approach [TC=O(n3)]
+            b. Prefix sum approach[TC=O(n2)]
+        4.
+        
 
