@@ -6,9 +6,10 @@ Folder(topics)
     program file list
 
 Algorithms
+    
     Searching Techniques
         1. Linear Search [TC = O(N)]
-    *   2. Binary Search [TC =O(LOG N)]
+        2. Binary Search [TC =O(LOG N)]
 
     Basic Sorting Techniques
         1. Bubble Sort [TC=O(N2)]
@@ -18,6 +19,7 @@ Algorithms
 
 
 Basic-java-programs
+
     1. Area of circle
     2. Area of Square
     3. Average of 3 number
@@ -26,6 +28,7 @@ Basic-java-programs
     6. Operators in java
 
 Conditional-Statements
+
     1. Income Tax calculator
     2. Largest of 3 numbers
     3. Check if the number is Odd or Even
@@ -35,6 +38,7 @@ Conditional-Statements
     7. Else if program to display the age group
     
 Loops
+
     1. Reverse of a number
     2. Input number till user Enter the multiple of 10
     3. Display output of num that is not multiple of 10
