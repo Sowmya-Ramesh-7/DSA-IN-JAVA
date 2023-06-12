@@ -1,4 +1,9 @@
 public class InsertionSort {
+    /*
+     Inertion sort: pick an element from unsorted part and place in the right position in sorted part
+
+     TC=O(n2)
+     */
     public static void InsertSort(int[] arr){
         for(int i=1;i<arr.length;i++){
             int curr=arr[i];
