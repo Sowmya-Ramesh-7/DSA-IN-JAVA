@@ -47,7 +47,7 @@ Loops
     4. Check if num is prime or not using for Loop
 
 Patterns[Nested-for-loops]
-    1.
+    1.Square Pattern
 
 Data-Structures
 
