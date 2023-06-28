@@ -58,5 +58,11 @@ Data-Structures
             a. Brute force approach [TC=O(n3)]
             b. Prefix sum approach[TC=O(n2)]
         4.
+
+        
+    Strings 
+        1. String Operations - Concatenation,length(),charAt(),input-next() and nextLine()
+
+
         
 
