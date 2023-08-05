@@ -15,7 +15,6 @@ public class SelectionSort{
                     small=j;
                 }
             }
-                
             int temp=arr[small];
             arr[small]=arr[i];
             arr[i]=temp;
