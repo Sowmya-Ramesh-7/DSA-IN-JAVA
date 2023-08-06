@@ -42,11 +42,9 @@ public class ValidAnagram {
     }
 
     public static void main(String args[]){
-        String s="lipid";
-        String t="tulip";
+        String s="race";
+        String t="care";
         System.out.println("s= keen and t= knee is anagram: "+isAnagram(s,t));
-
-
     }
 
     
