@@ -1,6 +1,8 @@
 import java.util.HashMap;
+
 public class ValidAnagram {
 
+    /*if 2 string are made up of same number and value of characters then they are anagram */
     public static boolean isAnagram(String s,String t){
         HashMap<Character,Integer> map=new HashMap<>();
         for(int i=0;i<s.length();i++){
