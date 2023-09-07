@@ -5,7 +5,7 @@ public class SpiralMatrix {
         int endRow=matrix.length-1;
         int endCol=matrix[0].length-1;
         System.out.print("Spiral Matrix :");
-        while(startRow<endRow && startCol<endCol){
+        while(startRow<=endRow && startCol<=endCol){
             //top
             for(int j=startCol;j<=endCol;j++){
 
